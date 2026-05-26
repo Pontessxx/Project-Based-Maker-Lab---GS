@@ -37,8 +37,8 @@ O sistema também fornece feedback visual através de um LED que pisca a cada co
 ---
 
 ## Software de Modelagem
-
-O modelo 3D da garra foi desenvolvido utilizando o **OpenSCAD**, permitindo a criação de um design paramétrico e ajustável, compatível com servomotores de 9g.
+![alt text](images/3dgarra.png)
+O modelo 3D da garra foi desenvolvido utilizando o **FreeCad**, permitindo a criação de um design paramétrico e ajustável, compatível com servomotores de 9g. na tentativa de utilizar o OpenScad acabei escolhendo um parecido o qual conseguia mesclar entre o maya e o openscad ai achei o FreeCad
 
 ---
 
